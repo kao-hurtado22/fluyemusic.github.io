@@ -1,0 +1,67 @@
+body {
+    background-image: url("https://images2.alphacoders.com/487/487124.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.title{
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.container {
+    width: 90%;
+    margin-top: 50px;
+    padding-right: 5px;
+    padding-left: 370px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#img-logo{
+    width: 120px;
+    height: 120px;
+    display: flex;
+    justify-content: flex-start;
+} 
+.btn.dropdown-toggle {
+    width: 10px;
+    text-align: left;
+}
+
+span.caret {
+    position: absolute;
+    left: 90%;
+    top: 45%;
+}
+
+label {
+    padding-top: 5px;
+    color: white;
+}
+
+.form-label {
+    padding-left: 0px !important;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.btn-success {
+    background-color: rgba(108, 255, 3, 0.589) !important;
+}
+
+.btn-success:hover {
+    background-color: #4daf64 !important;
+}
+
+img.track {
+    border: 1px solid #8a8a8a;
+} 
+
+ 
